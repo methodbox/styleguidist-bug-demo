@@ -1,3 +1,3 @@
 # styleguidist-bug-demo
 
-Just 'npm install'.
+Just `npm install`.
